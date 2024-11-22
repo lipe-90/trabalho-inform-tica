@@ -22,11 +22,22 @@ Apresentação de formulas excel conte.se soma.se e graficos
 ![5](https://github.com/user-attachments/assets/a720cf65-4b8b-4fbe-b10d-6c7c957357c6)
 
 ![6](https://github.com/user-attachments/assets/bee1644d-714b-4991-b7a0-2e3226142f89)
-# Atividade 3º 
-# Excel
-Uso de dados abertos de nossa escolha para montar uma panilha no exel.
-Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, cont.se, cont.ses, índice e corresp.
-# Atividade 4
+
+# Atividade 3
 Uso dos dados abertos para montar um dashboard no power BI.
 ![image](https://github.com/user-attachments/assets/4a47a5ab-fce3-4131-b591-aaa784d2c8b3)
+https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!TsnvbjZNV0S01c5F9bnqX8uX3xxa-PxPqz5KasLU6zriAmJ_kKVaSZYlaoLjAZkk&itemId=01CU7FDKNHI2OYRBWNQFGZ5N3VLAWFWZGM
+![image](https://github.com/user-attachments/assets/94bdfd02-41c5-4170-893a-133ceaf34524)
+![image](https://github.com/user-attachments/assets/fef8f3b2-2c29-48dc-a681-4de87ff63b8c)
+
+
+# Atividade 4
+AS METAS DE IMPOSTO A PAGAR FORAM BATIDAS?
+DE ACORDO COM A META INSTITUIDA, OS IMPOSTOS A RESTITUIR ALCANÇARAM?
+CONSIDERANDO UMA META DE 50000. AS METAS PARA O IMPOSTO PAGO FORAM BATIDAS?
+![image](https://github.com/user-attachments/assets/220b6a70-d6dc-422d-890a-3e188b3f097a)
+
+
+Power BI foi desenvolver um dashboard utilizando um arquivo de dados abertos com KPI
+![image](https://github.com/user-attachments/assets/3c409e59-475e-4b1d-bda7-e6fdde93bda0)
 
