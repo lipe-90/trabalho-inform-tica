@@ -41,8 +41,8 @@ AS METAS DE IMPOSTO A PAGAR FORAM BATIDAS?
 DE ACORDO COM A META INSTITUIDA, OS IMPOSTOS A RESTITUIR ALCANÇARAM?
 CONSIDERANDO UMA META DE 50000. AS METAS PARA O IMPOSTO PAGO FORAM BATIDAS?
 ![image](https://github.com/user-attachments/assets/220b6a70-d6dc-422d-890a-3e188b3f097a)
-
-
 Power BI foi desenvolver um dashboard utilizando um arquivo de dados abertos com KPI
 ![image](https://github.com/user-attachments/assets/3c409e59-475e-4b1d-bda7-e6fdde93bda0)
 
+# Atividade 5 
+APPS
