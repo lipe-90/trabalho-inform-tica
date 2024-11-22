@@ -25,7 +25,7 @@ Apresentação de formulas excel conte.se soma.se e graficos
 
 # Atividade 3
 Uso dos dados abertos para montar um dashboard no power BI.
-![image](https://github.com/user-attachments/assets/4a47a5ab-fce3-4131-b591-aaa784d2c8b3)
+![image](https://github.com/user-attachments/assets/c74f5750-c7e1-4496-94c5-31fbdbe1f7ba)
 https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!TsnvbjZNV0S01c5F9bnqX8uX3xxa-PxPqz5KasLU6zriAmJ_kKVaSZYlaoLjAZkk&itemId=01CU7FDKNHI2OYRBWNQFGZ5N3VLAWFWZGM
 ![image](https://github.com/user-attachments/assets/94bdfd02-41c5-4170-893a-133ceaf34524)
 ![image](https://github.com/user-attachments/assets/fef8f3b2-2c29-48dc-a681-4de87ff63b8c)
