@@ -26,3 +26,7 @@ Apresentação de formulas excel conte.se soma.se e graficos
 # Excel
 Uso de dados abertos de nossa escolha para montar uma panilha no exel.
 Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, cont.se, cont.ses, índice e corresp.
+# Atividade 4
+Uso dos dados abertos para montar um dashboard no power BI.
+![image](https://github.com/user-attachments/assets/4a47a5ab-fce3-4131-b591-aaa784d2c8b3)
+
