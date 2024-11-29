@@ -46,6 +46,7 @@ Power BI foi desenvolver um dashboard utilizando um arquivo de dados abertos com
 
 # Atividade 5 
 APPS
+[Uploading Power Apps Studio  _  Aplicativo FELIPE (Edição) - Google Chrome 2024-11-29 19-21-40.zip…]()
 
 # PROVA DE INFORMATICA 
 SEGUE O POWER BI DA PROVA 
