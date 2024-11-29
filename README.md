@@ -46,3 +46,8 @@ Power BI foi desenvolver um dashboard utilizando um arquivo de dados abertos com
 
 # Atividade 5 
 APPS
+
+# PROVA DE INFORMATICA 
+SEGUE O POWER BI DA PROVA 
+![image](https://github.com/user-attachments/assets/fe09186e-634c-4da9-9cdc-e7dfae7e66c8)
+
