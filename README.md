@@ -49,5 +49,6 @@ APPS
 
 # PROVA DE INFORMATICA 
 SEGUE O POWER BI DA PROVA 
+power bi prova.pbix
 ![image](https://github.com/user-attachments/assets/fe09186e-634c-4da9-9cdc-e7dfae7e66c8)
 
